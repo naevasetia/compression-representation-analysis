@@ -1,0 +1,30 @@
+{
+  "Pruned 30%": {
+    "layer1": 1.0,
+    "layer2": 1.0,
+    "layer3": 0.9999,
+    "layer4": 0.9999,
+    "avgpool": 0.9999
+  },
+  "Pruned 50%": {
+    "layer1": 1.0,
+    "layer2": 0.9997,
+    "layer3": 0.9992,
+    "layer4": 0.9979,
+    "avgpool": 0.9979
+  },
+  "Pruned 70%": {
+    "layer1": 0.9998,
+    "layer2": 0.997,
+    "layer3": 0.9929,
+    "layer4": 0.9786,
+    "avgpool": 0.9786
+  },
+  "Quantised INT8": {
+    "layer1": 1.0,
+    "layer2": 1.0,
+    "layer3": 1.0,
+    "layer4": 1.0,
+    "avgpool": 1.0
+  }
+}

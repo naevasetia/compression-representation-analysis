@@ -1,0 +1,26 @@
+{
+  "Pruned 30%": {
+    "min_cka": 0.9999,
+    "max_divergence": 0.0001,
+    "divergence_peak_at": "layer4.1",
+    "divergence_pattern": "monotonic_deep"
+  },
+  "Pruned 50%": {
+    "min_cka": 0.9979,
+    "max_divergence": 0.0021,
+    "divergence_peak_at": "layer4.1",
+    "divergence_pattern": "monotonic_deep"
+  },
+  "Pruned 70%": {
+    "min_cka": 0.9786,
+    "max_divergence": 0.0214,
+    "divergence_peak_at": "layer4.1",
+    "divergence_pattern": "monotonic_deep"
+  },
+  "Quantised INT8": {
+    "min_cka": 1.0,
+    "max_divergence": 0.0,
+    "divergence_peak_at": "layer3.1",
+    "divergence_pattern": "mid_onset"
+  }
+}
