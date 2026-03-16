@@ -209,3 +209,7 @@ __marimo__/
 "checkpoints/" 
 ".ipynb_checkpoints/" 
 "venv/" 
+"data/" 
+"checkpoints/" 
+".ipynb_checkpoints/" 
+"venv/" 
