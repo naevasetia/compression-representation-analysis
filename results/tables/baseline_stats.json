@@ -1,0 +1,10 @@
+{
+  "model": "ResNet-18 (CIFAR-adapted)",
+  "dataset": "CIFAR-10 (2000 test subset)",
+  "total_parameters": 11173962,
+  "size_float32_mb": 42.63,
+  "accuracy_random_init": 10.25,
+  "accuracy_after_finetuning": 90.15,
+  "epochs_trained": 15,
+  "notes": "Conv1 replaced with 3x3 stride-1, maxpool removed for 32x32 input"
+}
