@@ -47,7 +47,7 @@ transition. This project does that.
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/compression-representation-analysis.git
+git clone https://github.com/naevasetia/compression-representation-analysis.git
 cd compression-representation-analysis
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
